@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CreditCardInfo>
+	<System>
+		<Localizacion>NombreDelSistema</Localizacion>
+		<NumeroTarjeta>1234567890123456</NumeroTarjeta>
+		<IDCliente>12345</IDCliente>
+		<NombreCliente>John Doe</NombreCliente>
+	</System>
+</CreditCardInfo>
